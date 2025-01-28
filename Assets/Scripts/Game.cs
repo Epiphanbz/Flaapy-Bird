@@ -4,10 +4,6 @@ using UnityEngine;
 
 public class Game : MonoBehaviour
 {
-    public void empty()
-    {
-
-    }
     public enum GAME_STATUS
     {
         Ready,
